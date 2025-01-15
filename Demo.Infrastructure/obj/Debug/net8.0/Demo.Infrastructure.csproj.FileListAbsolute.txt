@@ -15,3 +15,4 @@ E:\Repos\MediatoRDemo\Demo.Infrastructure\obj\Debug\net8.0\refint\Demo.Infrastru
 E:\Repos\MediatoRDemo\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.pdb
 E:\Repos\MediatoRDemo\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.genruntimeconfig.cache
 E:\Repos\MediatoRDemo\Demo.Infrastructure\obj\Debug\net8.0\ref\Demo.Infrastructure.dll
+E:\Repos\MediatoRDemo\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.sourcelink.json

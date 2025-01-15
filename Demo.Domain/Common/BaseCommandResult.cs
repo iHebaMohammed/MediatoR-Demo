@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo.Domain.Common
 {
-    internal class BaseCommandResult
+    public record BaseCommandResult
     {
         public bool IsSuccess { get; set; }
         public StatusCode StatusCode { get; set; }

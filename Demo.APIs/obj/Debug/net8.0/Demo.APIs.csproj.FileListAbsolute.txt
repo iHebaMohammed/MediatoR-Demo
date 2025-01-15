@@ -81,3 +81,4 @@ E:\Repos\MediatoRDemo\Demo.APIs\obj\Debug\net8.0\refint\Demo.APIs.dll
 E:\Repos\MediatoRDemo\Demo.APIs\obj\Debug\net8.0\Demo.APIs.pdb
 E:\Repos\MediatoRDemo\Demo.APIs\obj\Debug\net8.0\Demo.APIs.genruntimeconfig.cache
 E:\Repos\MediatoRDemo\Demo.APIs\obj\Debug\net8.0\ref\Demo.APIs.dll
+E:\Repos\MediatoRDemo\Demo.APIs\obj\Debug\net8.0\Demo.APIs.sourcelink.json

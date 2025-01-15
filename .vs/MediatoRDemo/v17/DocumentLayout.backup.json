@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "E:\\Repos\\MediatoRDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{623F4ED1-2427-47BF-90DE-EF2AFB518285}|Demo.APIs\\Demo.APIs.csproj|e:\\repos\\mediatordemo\\demo.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{623F4ED1-2427-47BF-90DE-EF2AFB518285}|Demo.APIs\\Demo.APIs.csproj|solutionrelative:demo.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D65E4EC-E9ED-4112-82FD-08955FC6EAD3}|Demo.Application\\Demo.Application.csproj|e:\\repos\\mediatordemo\\demo.application\\feature\\preson\\commands\\insertpersoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D65E4EC-E9ED-4112-82FD-08955FC6EAD3}|Demo.Application\\Demo.Application.csproj|solutionrelative:demo.application\\feature\\preson\\commands\\insertpersoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{623F4ED1-2427-47BF-90DE-EF2AFB518285}|Demo.APIs\\Demo.APIs.csproj|e:\\repos\\mediatordemo\\demo.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{623F4ED1-2427-47BF-90DE-EF2AFB518285}|Demo.APIs\\Demo.APIs.csproj|solutionrelative:demo.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{623F4ED1-2427-47BF-90DE-EF2AFB518285}|Demo.APIs\\Demo.APIs.csproj|e:\\repos\\mediatordemo\\demo.apis\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623F4ED1-2427-47BF-90DE-EF2AFB518285}|Demo.APIs\\Demo.APIs.csproj|solutionrelative:demo.apis\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D65E4EC-E9ED-4112-82FD-08955FC6EAD3}|Demo.Application\\Demo.Application.csproj|e:\\repos\\mediatordemo\\demo.application\\feature\\preson\\queries\\getallpresonqurey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D65E4EC-E9ED-4112-82FD-08955FC6EAD3}|Demo.Application\\Demo.Application.csproj|solutionrelative:demo.application\\feature\\preson\\queries\\getallpresonqurey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D65E4EC-E9ED-4112-82FD-08955FC6EAD3}|Demo.Application\\Demo.Application.csproj|e:\\repos\\mediatordemo\\demo.application\\feature\\preson\\queries\\getpresonbyidqurey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D65E4EC-E9ED-4112-82FD-08955FC6EAD3}|Demo.Application\\Demo.Application.csproj|solutionrelative:demo.application\\feature\\preson\\queries\\getpresonbyidqurey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC7187B-F6A6-43CF-A23C-9C9E0C8E131D}|Demo.Domain\\Demo.Domain.csproj|e:\\repos\\mediatordemo\\demo.domain\\common\\basecommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC7187B-F6A6-43CF-A23C-9C9E0C8E131D}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\common\\basecommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC7187B-F6A6-43CF-A23C-9C9E0C8E131D}|Demo.Domain\\Demo.Domain.csproj|e:\\repos\\mediatordemo\\demo.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC7187B-F6A6-43CF-A23C-9C9E0C8E131D}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A15CE79B-E15E-41ED-B666-CC575EF7805F}|Demo.Infrastructure\\Demo.Infrastructure.csproj|e:\\repos\\mediatordemo\\demo.infrastructure\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A15CE79B-E15E-41ED-B666-CC575EF7805F}|Demo.Infrastructure\\Demo.Infrastructure.csproj|solutionrelative:demo.infrastructure\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAC7187B-F6A6-43CF-A23C-9C9E0C8E131D}|Demo.Domain\\Demo.Domain.csproj|e:\\repos\\mediatordemo\\demo.domain\\common\\basecommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC7187B-F6A6-43CF-A23C-9C9E0C8E131D}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\common\\basecommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{623F4ED1-2427-47BF-90DE-EF2AFB518285}|Demo.APIs\\Demo.APIs.csproj|e:\\repos\\mediatordemo\\demo.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623F4ED1-2427-47BF-90DE-EF2AFB518285}|Demo.APIs\\Demo.APIs.csproj|solutionrelative:demo.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623F4ED1-2427-47BF-90DE-EF2AFB518285}|Demo.APIs\\Demo.APIs.csproj|e:\\repos\\mediatordemo\\demo.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{623F4ED1-2427-47BF-90DE-EF2AFB518285}|Demo.APIs\\Demo.APIs.csproj|solutionrelative:demo.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAC7187B-F6A6-43CF-A23C-9C9E0C8E131D}|Demo.Domain\\Demo.Domain.csproj|e:\\repos\\mediatordemo\\demo.domain\\common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,6 +79,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InsertPersonCommand.cs",
+              "DocumentMoniker": "E:\\Repos\\MediatoRDemo\\Demo.Application\\Feature\\Preson\\Commands\\InsertPersonCommand.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Feature\\Preson\\Commands\\InsertPersonCommand.cs",
+              "ToolTip": "E:\\Repos\\MediatoRDemo\\Demo.Application\\Feature\\Preson\\Commands\\InsertPersonCommand.cs",
+              "RelativeToolTip": "Demo.Application\\Feature\\Preson\\Commands\\InsertPersonCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:19:05.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "E:\\Repos\\MediatoRDemo\\Demo.APIs\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Demo.APIs\\Controllers\\PersonController.cs",
+              "ToolTip": "E:\\Repos\\MediatoRDemo\\Demo.APIs\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Demo.APIs\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:52:30.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetPresonByIdQurey.cs",
+              "DocumentMoniker": "E:\\Repos\\MediatoRDemo\\Demo.Application\\Feature\\Preson\\Queries\\GetPresonByIdQurey.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Feature\\Preson\\Queries\\GetPresonByIdQurey.cs",
+              "ToolTip": "E:\\Repos\\MediatoRDemo\\Demo.Application\\Feature\\Preson\\Queries\\GetPresonByIdQurey.cs",
+              "RelativeToolTip": "Demo.Application\\Feature\\Preson\\Queries\\GetPresonByIdQurey.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:56:02.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllPresonQurey.cs",
+              "DocumentMoniker": "E:\\Repos\\MediatoRDemo\\Demo.Application\\Feature\\Preson\\Queries\\GetAllPresonQurey.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Feature\\Preson\\Queries\\GetAllPresonQurey.cs",
+              "ToolTip": "E:\\Repos\\MediatoRDemo\\Demo.Application\\Feature\\Preson\\Queries\\GetAllPresonQurey.cs",
+              "RelativeToolTip": "Demo.Application\\Feature\\Preson\\Queries\\GetAllPresonQurey.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwC4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:55:41.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Repos\\MediatoRDemo\\Demo.Domain\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\Entities\\Person.cs",
+              "ToolTip": "E:\\Repos\\MediatoRDemo\\Demo.Domain\\Entities\\Person.cs",
+              "RelativeToolTip": "Demo.Domain\\Entities\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:35:14.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Repos\\MediatoRDemo\\Demo.APIs\\Program.cs",
               "RelativeDocumentMoniker": "Demo.APIs\\Program.cs",
@@ -71,26 +156,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Repos\\MediatoRDemo\\Demo.APIs\\appsettings.json",
-              "RelativeDocumentMoniker": "Demo.APIs\\appsettings.json",
-              "ToolTip": "E:\\Repos\\MediatoRDemo\\Demo.APIs\\appsettings.json",
-              "RelativeToolTip": "Demo.APIs\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T07:59:46.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\Repos\\MediatoRDemo\\Demo.Infrastructure\\Contexts\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Demo.Infrastructure\\Contexts\\ApplicationDbContext.cs",
               "ToolTip": "E:\\Repos\\MediatoRDemo\\Demo.Infrastructure\\Contexts\\ApplicationDbContext.cs",
               "RelativeToolTip": "Demo.Infrastructure\\Contexts\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T07:57:13.87Z",
               "EditorCaption": ""
@@ -98,6 +170,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "BaseCommandResult.cs",
+              "DocumentMoniker": "E:\\Repos\\MediatoRDemo\\Demo.Domain\\Common\\BaseCommandResult.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\Common\\BaseCommandResult.cs",
+              "ToolTip": "E:\\Repos\\MediatoRDemo\\Demo.Domain\\Common\\BaseCommandResult.cs",
+              "RelativeToolTip": "Demo.Domain\\Common\\BaseCommandResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:55:01.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Enums.cs",
               "DocumentMoniker": "E:\\Repos\\MediatoRDemo\\Demo.Domain\\Common\\Enums.cs",
               "RelativeDocumentMoniker": "Demo.Domain\\Common\\Enums.cs",
@@ -105,21 +190,19 @@
               "RelativeToolTip": "Demo.Domain\\Common\\Enums.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T07:55:17.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T07:55:17.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseCommandResult.cs",
-              "DocumentMoniker": "E:\\Repos\\MediatoRDemo\\Demo.Domain\\Common\\BaseCommandResult.cs",
-              "RelativeDocumentMoniker": "Demo.Domain\\Common\\BaseCommandResult.cs",
-              "ToolTip": "E:\\Repos\\MediatoRDemo\\Demo.Domain\\Common\\BaseCommandResult.cs",
-              "RelativeToolTip": "Demo.Domain\\Common\\BaseCommandResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T07:55:01.705Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Repos\\MediatoRDemo\\Demo.APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.APIs\\appsettings.json",
+              "ToolTip": "E:\\Repos\\MediatoRDemo\\Demo.APIs\\appsettings.json",
+              "RelativeToolTip": "Demo.APIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T07:59:46.968Z"
             }
           ]
         },
