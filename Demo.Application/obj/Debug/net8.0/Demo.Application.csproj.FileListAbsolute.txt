@@ -1,0 +1,17 @@
+E:\Repos\MediatoRDemo\Demo.Application\bin\Debug\net8.0\Demo.Application.deps.json
+E:\Repos\MediatoRDemo\Demo.Application\bin\Debug\net8.0\Demo.Application.dll
+E:\Repos\MediatoRDemo\Demo.Application\bin\Debug\net8.0\Demo.Application.pdb
+E:\Repos\MediatoRDemo\Demo.Application\bin\Debug\net8.0\Demo.Domain.dll
+E:\Repos\MediatoRDemo\Demo.Application\bin\Debug\net8.0\Demo.Infrastructure.dll
+E:\Repos\MediatoRDemo\Demo.Application\bin\Debug\net8.0\Demo.Infrastructure.pdb
+E:\Repos\MediatoRDemo\Demo.Application\bin\Debug\net8.0\Demo.Domain.pdb
+E:\Repos\MediatoRDemo\Demo.Application\obj\Debug\net8.0\Demo.Application.csproj.AssemblyReference.cache
+E:\Repos\MediatoRDemo\Demo.Application\obj\Debug\net8.0\Demo.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\MediatoRDemo\Demo.Application\obj\Debug\net8.0\Demo.Application.AssemblyInfoInputs.cache
+E:\Repos\MediatoRDemo\Demo.Application\obj\Debug\net8.0\Demo.Application.AssemblyInfo.cs
+E:\Repos\MediatoRDemo\Demo.Application\obj\Debug\net8.0\Demo.Application.csproj.CoreCompileInputs.cache
+E:\Repos\MediatoRDemo\Demo.Application\obj\Debug\net8.0\Demo.App.371CD7EF.Up2Date
+E:\Repos\MediatoRDemo\Demo.Application\obj\Debug\net8.0\Demo.Application.dll
+E:\Repos\MediatoRDemo\Demo.Application\obj\Debug\net8.0\refint\Demo.Application.dll
+E:\Repos\MediatoRDemo\Demo.Application\obj\Debug\net8.0\Demo.Application.pdb
+E:\Repos\MediatoRDemo\Demo.Application\obj\Debug\net8.0\ref\Demo.Application.dll

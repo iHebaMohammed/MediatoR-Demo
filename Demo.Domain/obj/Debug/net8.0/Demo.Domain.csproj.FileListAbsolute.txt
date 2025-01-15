@@ -1,0 +1,11 @@
+E:\Repos\MediatoRDemo\Demo.Domain\bin\Debug\net8.0\Demo.Domain.deps.json
+E:\Repos\MediatoRDemo\Demo.Domain\bin\Debug\net8.0\Demo.Domain.dll
+E:\Repos\MediatoRDemo\Demo.Domain\bin\Debug\net8.0\Demo.Domain.pdb
+E:\Repos\MediatoRDemo\Demo.Domain\obj\Debug\net8.0\Demo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\MediatoRDemo\Demo.Domain\obj\Debug\net8.0\Demo.Domain.AssemblyInfoInputs.cache
+E:\Repos\MediatoRDemo\Demo.Domain\obj\Debug\net8.0\Demo.Domain.AssemblyInfo.cs
+E:\Repos\MediatoRDemo\Demo.Domain\obj\Debug\net8.0\Demo.Domain.csproj.CoreCompileInputs.cache
+E:\Repos\MediatoRDemo\Demo.Domain\obj\Debug\net8.0\Demo.Domain.dll
+E:\Repos\MediatoRDemo\Demo.Domain\obj\Debug\net8.0\refint\Demo.Domain.dll
+E:\Repos\MediatoRDemo\Demo.Domain\obj\Debug\net8.0\Demo.Domain.pdb
+E:\Repos\MediatoRDemo\Demo.Domain\obj\Debug\net8.0\ref\Demo.Domain.dll
